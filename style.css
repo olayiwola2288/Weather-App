@@ -13,3 +13,18 @@ body{
     width: 100px;
     margin-bottom: -50px;
 }
+button{
+    background: green;
+    padding: 5px 10px;
+    color: #fff;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background: rgb(53, 87, 53);
+    padding: 8px 12px;
+}
